@@ -1,0 +1,7 @@
+Minimum contour length 16; CPU pipeline median (process+prepare+2K raster+encode) 64.3485 ms; max 65.6058 ms
+Source 3840x2160 analysis 2048x1152
+Regions 0 strokes 3022 exact vertices 65755
+Detection median 30.532 ms; total median 53.276 ms; total max 54.083 ms
+Last run: resize 4.391, filter 1.154, detect 28.697, regions 0.000, trace 8.106, fit 7.908 ms
+Custom preparation 0.787 ms; render average 7.721 ms; CGR 30377 bytes; encode 1.025 ms; decode 1.160 ms
+CGR encode+atomic save 2.366 ms

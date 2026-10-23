@@ -1,0 +1,1 @@
+Existing CGR 75174 bytes; CGR3 same geometry 59724 bytes; strokes 10531; regions 0

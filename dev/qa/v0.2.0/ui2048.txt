@@ -1,0 +1,6 @@
+Source 2560x1440 analysis 2048x1152
+Regions 2132 exact vertices 30414
+Detection median 2.553 ms; total median 194.242 ms; total max 214.699 ms
+Last run: resize 15.289, filter 1.256, detect 2.578, regions 127.330, trace 42.972, fit 5.995 ms
+Custom preparation 17.305 ms; render average 9.573 ms; CGR 72208 bytes; encode 1.672 ms; decode 2.204 ms
+CGR encode+atomic save 2.840 ms

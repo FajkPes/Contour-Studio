@@ -1,0 +1,11 @@
+/build/
+/dev/build/
+/dev/generated/
+/dev/dependencies/obj/
+/dev/dependencies/bin/
+/dev/build-previous/
+/generated/
+/packages/
+/.vs/
+*.user
+benchmark.csv

@@ -1,0 +1,7 @@
+detail=0 color=89 brightness=80 multiplier=100 tolerance=0.7 budget=60 minLength=3 analysis=2048 connect=0 bytes=61712
+CGR size: 61712 B
+File read: 0.37 ms
+Decoding: 2.38 ms
+Render preparation: 1.61 ms
+First render: 2.99 ms
+7127 paths

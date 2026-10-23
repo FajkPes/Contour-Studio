@@ -1,0 +1,1 @@
+Aplikace zavolala rozhraní, které bylo zařazeno do jiného vlákna.
