@@ -21,6 +21,10 @@ English is the default and Czech is available. CGR5 contains geometry rather tha
 
 [Detailed documentation](README-DETAILS.md) · [All releases](https://github.com/FajkPes/Contour-Studio/releases)
 
+## Controls and format
+
+The Easy layout exposes the common sensitivity, geometry and resolution settings. Advanced mode adds options such as region analysis, separate color and brightness sensitivity, line joining, coverage and contour appearance. CGR5 stores geometry and metadata rather than a copy of the original image; this makes it useful for saving the extracted result, but it is not a general replacement for the source picture.
+
 ## Credits
 
 **Idea, concept and design:** FajkPes  
