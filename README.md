@@ -20,3 +20,8 @@ Download the Windows x64 ZIP from [Releases](https://github.com/FajkPes/Contour-
 English is the default and Czech is available. CGR5 contains geometry rather than the source image; older CGR2–CGR4 files are not supported. Detection is not semantic object or text recognition, so some textures and shadows can remain.
 
 [Detailed documentation](README-DETAILS.md) · [All releases](https://github.com/FajkPes/Contour-Studio/releases)
+
+## Credits
+
+**Idea, concept and design:** FajkPes  
+**Coding:** ChatGPT Codex, Claude and Google Antigravity
